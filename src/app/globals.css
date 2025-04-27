@@ -1,0 +1,84 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --foreground-rgb: 0, 0, 0;
+  --background-start-rgb: 214, 219, 220;
+  --background-end-rgb: 255, 255, 255;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --foreground-rgb: 255, 255, 255;
+    --background-start-rgb: 0, 0, 0;
+    --background-end-rgb: 0, 0, 0;
+  }
+}
+
+body {
+  color: rgb(var(--foreground-rgb));
+  background: linear-gradient(to bottom,
+      transparent,
+      rgb(var(--background-end-rgb))) rgb(var(--background-start-rgb));
+}
+
+@layer utilities {
+  .text-balance {
+    text-wrap: balance;
+  }
+}
+
+.hover-container {
+  position: relative;
+}
+
+.download-button {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  background-color: #22cfff17;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 5px;
+  cursor: pointer;
+  display: none;
+}
+
+.hover-container:hover .download-button {
+  display: block;
+}
+
+.shiny-yellow-text {
+  background: linear-gradient(90deg, #ffe400, #ffd700);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  animation: shine 2s infinite alternate;
+}
+
+@keyframes shine {
+  from {
+    filter: brightness(1);
+  }
+
+  to {
+    filter: brightness(1.3);
+  }
+}
+
+/* Add this to your globals.css */
+@keyframes glow {
+  0% {
+    box-shadow: 0 0 5px #ffe400, 0 0 10px #ffe400, 0 0 15px #ffe400, 0 0 20px #ffe400;
+  }
+
+  100% {
+    box-shadow: 0 0 10px #ffe400, 0 0 15px #ffe400, 0 0 20px #ffe400, 0 0 25px #ffe400;
+  }
+}
+
+.hover\:shadow-glow:hover {
+  animation: glow 1.5s ease-in-out infinite alternate;
+}
