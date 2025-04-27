@@ -22,7 +22,7 @@ export default function Home() {
         </div>
 
         <p className="text-center text-base font-medium relative z-20 text-white max-w-prose p-4">
-          Shotify makes capturing website screenshots effortless. Simply enter the URL, hit the "Snap" button, and instantly download your screenshot — quick and easy!
+          Shotify makes capturing website screenshots effortless. Simply enter the URL, hit the Snap button, and instantly download your screenshot — quick and easy!
         </p>
         <Form />
       </div>
