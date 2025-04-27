@@ -16,14 +16,14 @@ Shotify is built using the following technologies:
 ## Live Demo
 
 ![Demo](https://res.cloudinary.com/dyz1paeem/image/upload/v1745744488/Mockup1_jixquo.jpg)
-Check out the live demo of Shotify [here](https://snapsite-v1.vercel.app/).
+Check out the live demo of Shotify [here](https://shottify.vercel.app/).
 
 ## 🚀 Getting Started
 
 To run Shotify locally, follow these steps:
 
 1. Open Terminal of VS Code
-   ```git clone https://github.com/subhadeeproy3902/SnapSite.git```
+   ```git clone https://github.com/Sandhit06/Shotify.git```
 
 2. Install the dependencies
 - `bun i` or `npm i` or `pnpm i` or `yarn`
