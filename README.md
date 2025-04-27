@@ -1,6 +1,6 @@
 <h1 align="center"><b>📸 Shotify- Website Screenshot Generator</b></h1>
 
-![Screenshot](https://res.cloudinary.com/dyz1paeem/image/upload/v1745743473/shotify_2_ajiw3j.png)
+![Screenshot](https://res.cloudinary.com/dyz1paeem/image/upload/v1745744488/Mockup1_jixquo.jpg)
 
 ## 📌 Introduction
 Shotify makes capturing website screenshots effortless. Simply enter the URL, hit the "Snap" button, and instantly download your screenshot — quick and easy!
@@ -15,7 +15,7 @@ Shotify is built using the following technologies:
 
 ## Live Demo
 
-![Demo](https://res.cloudinary.com/dyz1paeem/image/upload/v1745744488/Mockup1_jixquo.jpg)
+![Demo](https://res.cloudinary.com/dyz1paeem/image/upload/v1745743473/shotify_2_ajiw3j.png)
 Check out the live demo of Shotify [here](https://shottify.vercel.app/).
 
 ## 🚀 Getting Started
