@@ -75,14 +75,14 @@ Enjoy exploring and extending this project! Feel free to contribute and suggest 
             <img src = "https://avatars.githubusercontent.com/u/90787826?v=4" width="150" height="150" alt="Dhruv Shah">
         </p>
             <p align="center">
-                <a href = "https://github.com/Sandhit06">
-                    <img src = "http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height = "36" alt="GitHub"/>
+                <a href="https://github.com/Sandhit06">
+                    <img src="https://api.iconify.design/mdi:github.svg?color=%230088cc" width="36" height="36" alt="GitHub"/>
                 </a>
-                <a href = "https://www.linkedin.com/in/sandhit-karmakar/" target="_blank">
-                    <img src = "http://www.iconninja.com/files/863/607/751/network-linkedin-social-connection-circular-circle-media-icon.svg" width="36" height="36" alt="LinkedIn"/>
+                <a href="https://www.linkedin.com/in/sandhit-karmakar/" target="_blank">
+                    <img src="https://api.iconify.design/mdi:linkedin.svg?color=%230088cc" width="36" height="36" alt="LinkedIn"/>
                 </a>
-                <a href = "mailto:sandhitkarmakar@gmail.com" target="_blank">
-                    <img src = "https://www.iconninja.com/files/312/807/734/share-send-email-chat-circle-message-mail-icon.svg" width="36" height="36" alt="Email"/>
+                <a href="mailto:sandhitkarmakar@gmail.com" target="_blank">
+                    <img src="https://api.iconify.design/mdi:email.svg?color=%230088cc" width="36" height="36" alt="Email"/>
                 </a>
             </p>
         </td>
