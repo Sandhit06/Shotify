@@ -13,10 +13,10 @@ export const metadata: Metadata = {
   twitter: {
     card: "summary",
     title: "Shotify | Website Screenshot Tool by Sandhit Karmakar",
-    description: "Capture website screenshots with Shotify, a web tool by Sandhit Karmakar. Enter a website URL to generate a screenshot.",
+    description: "Sandhit Karmakar is a full-stack developer creating practical web tools. Explore Shotify, his website screenshot application built with Next.js for capturing pages from a URL.",
   },
   title: "Shotify | Website Screenshot Tool by Sandhit Karmakar",
-  description: "Capture website screenshots with Shotify, a web tool by Sandhit Karmakar. Enter a website URL to generate a screenshot.",
+  description: "Sandhit Karmakar is a full-stack developer creating practical web tools. Explore Shotify, his website screenshot application built with Next.js for capturing pages from a URL.",
   icons: {
     icon: "/favicon.ico",
   },
@@ -25,7 +25,7 @@ export const metadata: Metadata = {
     type: "website",
     url: "https://shottify.vercel.app/",
     title: "Shotify | Website Screenshot Tool by Sandhit Karmakar",
-    description: "Capture website screenshots with Shotify, a web tool by Sandhit Karmakar. Enter a website URL to generate a screenshot.",
+    description: "Sandhit Karmakar is a full-stack developer creating practical web tools. Explore Shotify, his website screenshot application built with Next.js for capturing pages from a URL.",
     images: [
       {
         url: "https://i.postimg.cc/63ZfYZwG/529shots-so.webp",
