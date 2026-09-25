@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://shottify.vercel.app/sitemap.xml
